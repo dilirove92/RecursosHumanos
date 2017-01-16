@@ -1,0 +1,15 @@
+c:\users\yahina\documents\visual studio 2010\Projects\SistemaRecursosHumanos\CapaDatos\obj\Debug\ResolveAssemblyReference.cache
+c:\users\yahina\documents\visual studio 2010\Projects\SistemaRecursosHumanos\CapaDatos\bin\Debug\CapaDatos.dll
+c:\users\yahina\documents\visual studio 2010\Projects\SistemaRecursosHumanos\CapaDatos\bin\Debug\CapaDatos.pdb
+c:\users\yahina\documents\visual studio 2010\Projects\SistemaRecursosHumanos\CapaDatos\obj\Debug\CapaDatos.dll
+c:\users\yahina\documents\visual studio 2010\Projects\SistemaRecursosHumanos\CapaDatos\obj\Debug\CapaDatos.pdb
+D:\DOCUMENTOS ELAYNE YSC\Tareas Ely 4ºA\LENGUAJE DE PROGRAMACION II\Trabajos\SistemaRecursosHumanos\CapaDatos\bin\Debug\CapaDatos.dll
+D:\DOCUMENTOS ELAYNE YSC\Tareas Ely 4ºA\LENGUAJE DE PROGRAMACION II\Trabajos\SistemaRecursosHumanos\CapaDatos\bin\Debug\CapaDatos.pdb
+D:\DOCUMENTOS ELAYNE YSC\Tareas Ely 4ºA\LENGUAJE DE PROGRAMACION II\Trabajos\SistemaRecursosHumanos\CapaDatos\obj\Debug\ResolveAssemblyReference.cache
+D:\DOCUMENTOS ELAYNE YSC\Tareas Ely 4ºA\LENGUAJE DE PROGRAMACION II\Trabajos\SistemaRecursosHumanos\CapaDatos\obj\Debug\CapaDatos.dll
+D:\DOCUMENTOS ELAYNE YSC\Tareas Ely 4ºA\LENGUAJE DE PROGRAMACION II\Trabajos\SistemaRecursosHumanos\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\yahina\Documents\DOCUMENTOS ELY\4A\LENGUAJE DE PROGRAMACIÓN II\Trabajos\SistemaRecursosHumanos\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\yahina\Documents\DOCUMENTOS ELY\4A\LENGUAJE DE PROGRAMACIÓN II\Trabajos\SistemaRecursosHumanos\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\yahina\Documents\DOCUMENTOS ELY\4A\LENGUAJE DE PROGRAMACIÓN II\Trabajos\SistemaRecursosHumanos\CapaDatos\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\yahina\Documents\DOCUMENTOS ELY\4A\LENGUAJE DE PROGRAMACIÓN II\Trabajos\SistemaRecursosHumanos\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\yahina\Documents\DOCUMENTOS ELY\4A\LENGUAJE DE PROGRAMACIÓN II\Trabajos\SistemaRecursosHumanos\CapaDatos\obj\Debug\CapaDatos.pdb
