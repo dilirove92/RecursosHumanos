@@ -1,0 +1,49 @@
+C:\Users\yahina\documents\visual studio 2010\Projects\SistemaRecursosHumanos\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\yahina\documents\visual studio 2010\Projects\SistemaRecursosHumanos\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\yahina\documents\visual studio 2010\Projects\SistemaRecursosHumanos\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\yahina\documents\visual studio 2010\Projects\SistemaRecursosHumanos\CapaPresentacion\bin\Debug\CapaNegocios.dll
+C:\Users\yahina\documents\visual studio 2010\Projects\SistemaRecursosHumanos\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\yahina\documents\visual studio 2010\Projects\SistemaRecursosHumanos\CapaPresentacion\bin\Debug\CapaNegocios.pdb
+C:\Users\yahina\documents\visual studio 2010\Projects\SistemaRecursosHumanos\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\yahina\documents\visual studio 2010\Projects\SistemaRecursosHumanos\CapaPresentacion\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\yahina\documents\visual studio 2010\Projects\SistemaRecursosHumanos\CapaPresentacion\obj\x86\Debug\CapaPresentacion.Form1.resources
+C:\Users\yahina\documents\visual studio 2010\Projects\SistemaRecursosHumanos\CapaPresentacion\obj\x86\Debug\SistemaRecursosHumanos.CapaPresentacion.Properties.Resources.resources
+C:\Users\yahina\documents\visual studio 2010\Projects\SistemaRecursosHumanos\CapaPresentacion\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\yahina\documents\visual studio 2010\Projects\SistemaRecursosHumanos\CapaPresentacion\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\yahina\documents\visual studio 2010\Projects\SistemaRecursosHumanos\CapaPresentacion\obj\x86\Debug\CapaPresentacion.exe
+C:\Users\yahina\documents\visual studio 2010\Projects\SistemaRecursosHumanos\CapaPresentacion\obj\x86\Debug\CapaPresentacion.pdb
+D:\DOCUMENTOS ELAYNE YSC\Tareas Ely 4ºA\LENGUAJE DE PROGRAMACION II\Trabajos\SistemaRecursosHumanos\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+D:\DOCUMENTOS ELAYNE YSC\Tareas Ely 4ºA\LENGUAJE DE PROGRAMACION II\Trabajos\SistemaRecursosHumanos\CapaPresentacion\obj\x86\Debug\CapaPresentacion.exe
+D:\DOCUMENTOS ELAYNE YSC\Tareas Ely 4ºA\LENGUAJE DE PROGRAMACION II\Trabajos\SistemaRecursosHumanos\CapaPresentacion\obj\x86\Debug\CapaPresentacion.pdb
+D:\DOCUMENTOS ELAYNE YSC\Tareas Ely 4ºA\LENGUAJE DE PROGRAMACION II\Trabajos\SistemaRecursosHumanos\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+D:\DOCUMENTOS ELAYNE YSC\Tareas Ely 4ºA\LENGUAJE DE PROGRAMACION II\Trabajos\SistemaRecursosHumanos\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+D:\DOCUMENTOS ELAYNE YSC\Tareas Ely 4ºA\LENGUAJE DE PROGRAMACION II\Trabajos\SistemaRecursosHumanos\CapaPresentacion\bin\Debug\CapaNegocios.dll
+D:\DOCUMENTOS ELAYNE YSC\Tareas Ely 4ºA\LENGUAJE DE PROGRAMACION II\Trabajos\SistemaRecursosHumanos\CapaPresentacion\bin\Debug\CapaDatos.dll
+D:\DOCUMENTOS ELAYNE YSC\Tareas Ely 4ºA\LENGUAJE DE PROGRAMACION II\Trabajos\SistemaRecursosHumanos\CapaPresentacion\bin\Debug\CapaNegocios.pdb
+D:\DOCUMENTOS ELAYNE YSC\Tareas Ely 4ºA\LENGUAJE DE PROGRAMACION II\Trabajos\SistemaRecursosHumanos\CapaPresentacion\bin\Debug\CapaDatos.pdb
+D:\DOCUMENTOS ELAYNE YSC\Tareas Ely 4ºA\LENGUAJE DE PROGRAMACION II\Trabajos\SistemaRecursosHumanos\CapaPresentacion\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\DOCUMENTOS ELAYNE YSC\Tareas Ely 4ºA\LENGUAJE DE PROGRAMACION II\Trabajos\SistemaRecursosHumanos\CapaPresentacion\obj\x86\Debug\CapaPresentacion.Form1.resources
+D:\DOCUMENTOS ELAYNE YSC\Tareas Ely 4ºA\LENGUAJE DE PROGRAMACION II\Trabajos\SistemaRecursosHumanos\CapaPresentacion\obj\x86\Debug\SistemaRecursosHumanos.CapaPresentacion.Properties.Resources.resources
+D:\DOCUMENTOS ELAYNE YSC\Tareas Ely 4ºA\LENGUAJE DE PROGRAMACION II\Trabajos\SistemaRecursosHumanos\CapaPresentacion\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\DOCUMENTOS ELAYNE YSC\Tareas Ely 4ºA\LENGUAJE DE PROGRAMACION II\Trabajos\SistemaRecursosHumanos\CapaPresentacion\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\yahina\Documents\DOCUMENTOS ELY\4A\LENGUAJE DE PROGRAMACIÓN II\Trabajos\SistemaRecursosHumanos\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\yahina\Documents\DOCUMENTOS ELY\4A\LENGUAJE DE PROGRAMACIÓN II\Trabajos\SistemaRecursosHumanos\CapaPresentacion\obj\x86\Debug\CapaPresentacion.exe
+C:\Users\yahina\Documents\DOCUMENTOS ELY\4A\LENGUAJE DE PROGRAMACIÓN II\Trabajos\SistemaRecursosHumanos\CapaPresentacion\obj\x86\Debug\CapaPresentacion.pdb
+C:\Users\yahina\Documents\DOCUMENTOS ELY\4A\LENGUAJE DE PROGRAMACIÓN II\Trabajos\SistemaRecursosHumanos\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\yahina\Documents\DOCUMENTOS ELY\4A\LENGUAJE DE PROGRAMACIÓN II\Trabajos\SistemaRecursosHumanos\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\yahina\Documents\DOCUMENTOS ELY\4A\LENGUAJE DE PROGRAMACIÓN II\Trabajos\SistemaRecursosHumanos\CapaPresentacion\bin\Debug\CapaNegocios.dll
+C:\Users\yahina\Documents\DOCUMENTOS ELY\4A\LENGUAJE DE PROGRAMACIÓN II\Trabajos\SistemaRecursosHumanos\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\yahina\Documents\DOCUMENTOS ELY\4A\LENGUAJE DE PROGRAMACIÓN II\Trabajos\SistemaRecursosHumanos\CapaPresentacion\bin\Debug\CapaNegocios.pdb
+C:\Users\yahina\Documents\DOCUMENTOS ELY\4A\LENGUAJE DE PROGRAMACIÓN II\Trabajos\SistemaRecursosHumanos\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\yahina\Documents\DOCUMENTOS ELY\4A\LENGUAJE DE PROGRAMACIÓN II\Trabajos\SistemaRecursosHumanos\CapaPresentacion\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\yahina\Documents\DOCUMENTOS ELY\4A\LENGUAJE DE PROGRAMACIÓN II\Trabajos\SistemaRecursosHumanos\CapaPresentacion\obj\x86\Debug\SistemaRecursosHumanos.CapaPresentacion.Properties.Resources.resources
+C:\Users\yahina\Documents\DOCUMENTOS ELY\4A\LENGUAJE DE PROGRAMACIÓN II\Trabajos\SistemaRecursosHumanos\CapaPresentacion\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\yahina\Documents\DOCUMENTOS ELY\4A\LENGUAJE DE PROGRAMACIÓN II\Trabajos\SistemaRecursosHumanos\CapaPresentacion\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\yahina\Documents\DOCUMENTOS ELY\4A\LENGUAJE DE PROGRAMACIÓN II\Trabajos\SistemaRecursosHumanos\CapaPresentacion\obj\x86\Debug\SistemaRecursosHumanos.CapaPresentacion.GestionDepartamentos.resources
+C:\Users\yahina\Documents\DOCUMENTOS ELY\4A\LENGUAJE DE PROGRAMACIÓN II\Trabajos\SistemaRecursosHumanos\CapaPresentacion\obj\x86\Debug\SistemaRecursosHumanos.CapaPresentacion.GestionEmpleados.resources
+C:\Users\yahina\Documents\DOCUMENTOS ELY\4A\LENGUAJE DE PROGRAMACIÓN II\Trabajos\SistemaRecursosHumanos\CapaPresentacion\obj\x86\Debug\SistemaRecursosHumanos.CapaPresentacion.GestionIngresoSistema.resources
+C:\Users\yahina\Documents\DOCUMENTOS ELY\4A\LENGUAJE DE PROGRAMACIÓN II\Trabajos\SistemaRecursosHumanos\CapaPresentacion\obj\x86\Debug\SistemaRecursosHumanos.CapaPresentacion.GestionAsignacionPersonal.resources
+C:\Users\yahina\Documents\DOCUMENTOS ELY\4A\LENGUAJE DE PROGRAMACIÓN II\Trabajos\SistemaRecursosHumanos\CapaPresentacion\obj\x86\Debug\SistemaRecursosHumanos.CapaPresentacion.GestionOpciones.resources
+C:\Users\Jazmine\Desktop\RecursosHumanos - Elayne Sanchez - 4A\RecursosHumanos - Elayne Sanchez - 4A\SistemaRecursosHumanos\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\Jazmine\Desktop\RecursosHumanos - Elayne Sanchez - 4A\RecursosHumanos - Elayne Sanchez - 4A\SistemaRecursosHumanos\CapaPresentacion\obj\x86\Debug\CapaPresentacion.exe
+C:\Users\Jazmine\Desktop\RecursosHumanos - Elayne Sanchez - 4A\RecursosHumanos - Elayne Sanchez - 4A\SistemaRecursosHumanos\CapaPresentacion\obj\x86\Debug\CapaPresentacion.pdb
