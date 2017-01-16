@@ -1,0 +1,21 @@
+C:\Users\yahina\documents\visual studio 2010\Projects\SistemaRecursosHumanos\CapaNegocios\bin\Debug\CapaNegocios.dll
+C:\Users\yahina\documents\visual studio 2010\Projects\SistemaRecursosHumanos\CapaNegocios\bin\Debug\CapaNegocios.pdb
+C:\Users\yahina\documents\visual studio 2010\Projects\SistemaRecursosHumanos\CapaNegocios\bin\Debug\CapaDatos.dll
+C:\Users\yahina\documents\visual studio 2010\Projects\SistemaRecursosHumanos\CapaNegocios\bin\Debug\CapaDatos.pdb
+C:\Users\yahina\documents\visual studio 2010\Projects\SistemaRecursosHumanos\CapaNegocios\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\yahina\documents\visual studio 2010\Projects\SistemaRecursosHumanos\CapaNegocios\obj\Debug\CapaNegocios.dll
+C:\Users\yahina\documents\visual studio 2010\Projects\SistemaRecursosHumanos\CapaNegocios\obj\Debug\CapaNegocios.pdb
+D:\DOCUMENTOS ELAYNE YSC\Tareas Ely 4ºA\LENGUAJE DE PROGRAMACION II\Trabajos\SistemaRecursosHumanos\CapaNegocios\bin\Debug\CapaNegocios.dll
+D:\DOCUMENTOS ELAYNE YSC\Tareas Ely 4ºA\LENGUAJE DE PROGRAMACION II\Trabajos\SistemaRecursosHumanos\CapaNegocios\bin\Debug\CapaNegocios.pdb
+D:\DOCUMENTOS ELAYNE YSC\Tareas Ely 4ºA\LENGUAJE DE PROGRAMACION II\Trabajos\SistemaRecursosHumanos\CapaNegocios\bin\Debug\CapaDatos.dll
+D:\DOCUMENTOS ELAYNE YSC\Tareas Ely 4ºA\LENGUAJE DE PROGRAMACION II\Trabajos\SistemaRecursosHumanos\CapaNegocios\bin\Debug\CapaDatos.pdb
+D:\DOCUMENTOS ELAYNE YSC\Tareas Ely 4ºA\LENGUAJE DE PROGRAMACION II\Trabajos\SistemaRecursosHumanos\CapaNegocios\obj\Debug\ResolveAssemblyReference.cache
+D:\DOCUMENTOS ELAYNE YSC\Tareas Ely 4ºA\LENGUAJE DE PROGRAMACION II\Trabajos\SistemaRecursosHumanos\CapaNegocios\obj\Debug\CapaNegocios.dll
+D:\DOCUMENTOS ELAYNE YSC\Tareas Ely 4ºA\LENGUAJE DE PROGRAMACION II\Trabajos\SistemaRecursosHumanos\CapaNegocios\obj\Debug\CapaNegocios.pdb
+C:\Users\yahina\Documents\DOCUMENTOS ELY\4A\LENGUAJE DE PROGRAMACIÓN II\Trabajos\SistemaRecursosHumanos\CapaNegocios\bin\Debug\CapaNegocios.dll
+C:\Users\yahina\Documents\DOCUMENTOS ELY\4A\LENGUAJE DE PROGRAMACIÓN II\Trabajos\SistemaRecursosHumanos\CapaNegocios\bin\Debug\CapaNegocios.pdb
+C:\Users\yahina\Documents\DOCUMENTOS ELY\4A\LENGUAJE DE PROGRAMACIÓN II\Trabajos\SistemaRecursosHumanos\CapaNegocios\bin\Debug\CapaDatos.dll
+C:\Users\yahina\Documents\DOCUMENTOS ELY\4A\LENGUAJE DE PROGRAMACIÓN II\Trabajos\SistemaRecursosHumanos\CapaNegocios\bin\Debug\CapaDatos.pdb
+C:\Users\yahina\Documents\DOCUMENTOS ELY\4A\LENGUAJE DE PROGRAMACIÓN II\Trabajos\SistemaRecursosHumanos\CapaNegocios\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\yahina\Documents\DOCUMENTOS ELY\4A\LENGUAJE DE PROGRAMACIÓN II\Trabajos\SistemaRecursosHumanos\CapaNegocios\obj\Debug\CapaNegocios.dll
+C:\Users\yahina\Documents\DOCUMENTOS ELY\4A\LENGUAJE DE PROGRAMACIÓN II\Trabajos\SistemaRecursosHumanos\CapaNegocios\obj\Debug\CapaNegocios.pdb
